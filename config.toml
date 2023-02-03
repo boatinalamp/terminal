@@ -100,4 +100,4 @@ paginate = 5
   # --
   # replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
 [[module.imports]]
-  path = 'themes/terminal'
+  path = '/opt/build/repo/themes'
