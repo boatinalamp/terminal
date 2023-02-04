@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Blogly"
+    title = "Inked"
     subtitle = 'A blog made by Pranav Thandassery. Basically a collection of my random thoughts'
     owner = "Pranav"
     keywords = ""
@@ -81,7 +81,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Blogyly"
+      logoText = "Inked"
       logoHomeLink = "/"
 
     [languages.en.menu]
