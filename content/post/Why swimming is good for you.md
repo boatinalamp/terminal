@@ -3,6 +3,7 @@ title: "Why Swimming Is Good for You"
 date: 2023-01-25T19:25:53+05:30
 draft: false
 summary: 'Have you ever wondered why so many people choose swimming as their go to form of exercise?'
+image: https://images.pexels.com/photos/711187/pexels-photo-711187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 # Why swimming is good for you
 Have you ever wondered why so many people choose swimming as their go-to form of exercise?

@@ -3,6 +3,7 @@ title: "Why Writing Is Good for Children"
 date: 2023-01-12T18:50:36+05:30
 draft: false
 summary: "Writing is an important part of any child's education. "
+image: https://images.indianexpress.com/2021/02/pixabay_child-writing_1200.jpg
 ---
 ![Child Writing](https://images.indianexpress.com/2021/02/pixabay_child-writing_1200.jpg)
 # Why writing is important for children

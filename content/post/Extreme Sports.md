@@ -2,6 +2,7 @@
 title: "Extreme Sports"
 date: 2022-11-25
 draft: false
+image: https://www.adventureinyou.com/wp-content/uploads/2016/08/what-not-to-do-bungee_5_LEAD.jpg
 ---
 # Are Extreme sports dangerous? And do they deserve to be prohibited?
 ### What are extreme sports?
