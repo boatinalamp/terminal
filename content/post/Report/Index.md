@@ -2,6 +2,7 @@
 title: "Report"
 date: 2023-04-24T21:36:20+05:30
 draft: false
+image: clip_image004.jpg
 ---
 Global Perspectives
 **THE BED CRISIS**
