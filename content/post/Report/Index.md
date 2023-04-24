@@ -10,7 +10,7 @@ Global Perspectives
 
 <hr>
 
-![](clip_image004.jpg)
+
 
 # Introduction
 
