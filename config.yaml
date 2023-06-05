@@ -8,7 +8,7 @@ languages:
     en:
         languageName: English
         title: Inked
-        description: A blog for daily thoughts and feelings.
+        description: Possibly a blog
         weight: 1
 # Change it to your Disqus shortname before using
 disqusShortname: inked-1
@@ -142,6 +142,7 @@ params:
               params:
                   limit: 5
             - type: archive
+            - type: reading
         page:
             - type: toc
 
