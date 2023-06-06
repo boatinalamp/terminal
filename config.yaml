@@ -2,12 +2,12 @@ baseurl: /
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Inked
+title: The Chatter
 
 languages:
     en:
         languageName: English
-        title: Inked
+        title: The Chatter
         description: Possibly a blog
         weight: 1
 # Change it to your Disqus shortname before using
@@ -43,11 +43,11 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🤓
-        subtitle: Hello There.
+        emoji: 
+        subtitle: Maybe a blog?
         avatar:
             enabled: true
-            local: true
+            local: false
             src: av.png
 
     article:

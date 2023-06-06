@@ -10,12 +10,12 @@ Just a collection of my various projects and assignments.
 
 ## English
 
-Summers are getting hotter every year, right? I remember playing outside with my friends for hours without feeling too hot. But now, it's really hard to be outside without feeling like we're melting! Even at night, I have to use the air conditioning to sleep comfortably.
+~~Summers are getting hotter every year, right? I remember playing outside with my friends for hours without feeling too hot. But now, it's really hard to be outside without feeling like we're melting! Even at night, I have to use the air conditioning to sleep comfortably.~~
 
-Over the years, temperature changes have been pretty noticeable, especially now with global warming and all. I asked my parents about there experiences, and they spoke about how it was much cooler (temperature wise), so much so that they could spend the entire day outside, My grandmother had similar experiences, she talked about how she never really felt hot and used to sleep without the fans on, which makes our modern summers pale in comparison.
-the next few summers are predicted to be the warmest ever recorded, and I blame the usual suspects, Global Warming, Climate Change etc. etc. 
-But I'm sure you've heard that before a million times. And yes, you can blame the excessive emissions of greenhouse gases for this ongoing... trend? The industrial activities that power our smart toilets (and hospitals) release substantial amounts of carbon dioxide (CO2) and other greenhouse gases into the atmosphere. These emissions create a thick layer that traps heat, leading to a gradual increase in global temperatures. 
-
+~~Over the years, temperature changes have been pretty noticeable, especially now with global warming and all. I asked my parents about there experiences, and they spoke about how it was much cooler (temperature wise), so much so that they could spend the entire day outside, My grandmother had similar experiences, she talked about how she never really felt hot and used to sleep without the fans on, which makes our modern summers pale in comparison.~~ 
+~~the next few summers are predicted to be the warmest ever recorded, and I blame the usual suspects, Global Warming, Climate Change etc. etc.~~
+~~But I'm sure you've heard that before a million times. And yes, you can blame the excessive emissions of greenhouse gases for this ongoing... trend? The industrial activities that power our smart toilets (and hospitals) release substantial amounts of carbon dioxide (CO2) and other greenhouse gases into the atmosphere. These emissions create a thick layer that traps heat, leading to a gradual increase in global temperatures.~~
+#### Rewritten offline.
 ## Math
 
 <html>
@@ -29,10 +29,9 @@ But I'm sure you've heard that before a million times. And yes, you can blame th
 
 ## Library:
 ### Reading log
-banished from his home and ends up on an island with his daughter Miranda. Using his magic powers, Prospero creates a powerful storm that brings his enemies to the island. There are also spirits and monsters on the island, which add to the magical atmosphere.
+Banished from his home, Prospero ends up on an island with his daughter Miranda. Using his magic powers, Prospero creates a powerful storm that brings his enemies to the island. The island is inhabited by spirits and monsters, adding to its magical atmosphere.
 
 Miranda falls in love with a prince named Ferdinand, and their love blossoms quickly. Throughout the play, Prospero learns the importance of forgiveness and ultimately forgives his brother, reclaiming what is rightfully his. In the end, he gives up his magic powers, emphasizing the theme of personal growth and transformation.
-
 
 ### Review
 <img src=4-star.png width="15%" height="5%"> <br>
