@@ -35,7 +35,7 @@ Miranda falls in love with a prince named Ferdinand, and their love blossoms qui
 
 ### Review
 <img src=4-star.png width="15%" height="5%"> <br>
-Although the language may be a bit hard to read because it's old-fashioned, "The Tempest" offers interesting characters, and a touching message about forgiveness and redemption. It is a worthwhile playscript to read
+"The Tempest" offers interesting characters, and a touching message about forgiveness and redemption. It is a worthwhile playscript to read although a little bit advanced for light readers.
 
 ## Global Perspectives
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
