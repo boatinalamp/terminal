@@ -62,3 +62,5 @@ Miranda falls in love with a prince named Ferdinand, and their love blossoms qui
 
 ## My own projects (w.i.p):
 *This is incomplete cuz i couldnt finish this whole site in a day*
+## French:
+<iframe src="https://elproschoolspune-my.sharepoint.com/personal/pranav_thandassery_elproschools_edu_in/_layouts/15/Doc.aspx?sourcedoc={7795e569-7e1e-45a2-bac6-8e9fb2aa8a36}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="479px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
