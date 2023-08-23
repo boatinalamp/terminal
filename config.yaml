@@ -1,8 +1,15 @@
 baseurl: /
 languageCode: en-us
-theme: hugo-theme-stack
+theme: risotto
 paginate: 5
 title: The Chatter
+sectionPagesMenu: main
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /post/
+      weight: 10
 
 languages:
     en:
